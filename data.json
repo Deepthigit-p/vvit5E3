@@ -1,0 +1,22 @@
+{
+    "basics":{
+        "name":"Deepthi",
+        "role":"Fresher",
+        "email":"pathakamurideepthi1@gmail.com",
+        "mobile":"9966774523",
+        "education":[
+            {
+                "degree":"SSC",
+                "percentage":100
+            },
+            {
+                "degree":"inter",
+                "percentage":96.4
+            },
+            {
+                "degree":"B-tech",
+                "percenyage":9.1
+            }
+        ]
+    }
+}
